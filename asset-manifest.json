@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personalwebsite/static/css/main.6b115692.chunk.css",
+    "main.js": "/personalwebsite/static/js/main.48d57644.chunk.js",
+    "main.js.map": "/personalwebsite/static/js/main.48d57644.chunk.js.map",
+    "runtime-main.js": "/personalwebsite/static/js/runtime-main.ee218513.js",
+    "runtime-main.js.map": "/personalwebsite/static/js/runtime-main.ee218513.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/personalwebsite/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f13c1970.chunk.js": "/personalwebsite/static/js/2.f13c1970.chunk.js",
+    "static/js/2.f13c1970.chunk.js.map": "/personalwebsite/static/js/2.f13c1970.chunk.js.map",
+    "static/js/3.0722bf1e.chunk.js": "/personalwebsite/static/js/3.0722bf1e.chunk.js",
+    "static/js/3.0722bf1e.chunk.js.map": "/personalwebsite/static/js/3.0722bf1e.chunk.js.map",
+    "index.html": "/personalwebsite/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/personalwebsite/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6b115692.chunk.css.map": "/personalwebsite/static/css/main.6b115692.chunk.css.map",
+    "static/js/2.f13c1970.chunk.js.LICENSE.txt": "/personalwebsite/static/js/2.f13c1970.chunk.js.LICENSE.txt",
+    "static/media/Harshita_Saxena_Resume.43c57f69.pdf": "/personalwebsite/static/media/Harshita_Saxena_Resume.43c57f69.pdf",
+    "static/media/Home.css": "/personalwebsite/static/media/home-bg.dc52d5d4.jpg",
+    "static/media/myp.6c40f35b.jpeg": "/personalwebsite/static/media/myp.6c40f35b.jpeg",
+    "static/media/tick.a830ac2f.mp3": "/personalwebsite/static/media/tick.a830ac2f.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee218513.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f13c1970.chunk.js",
+    "static/css/main.6b115692.chunk.css",
+    "static/js/main.48d57644.chunk.js"
+  ]
+}
