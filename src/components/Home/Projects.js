@@ -31,10 +31,9 @@ const Projects = () => {
               <ProjectCard
                 
                 isBlog={false}
-                title="Clickstream Data Pipeline"
-                description="This group project is done under the Target Corporation. We designed and developed a Data 
-pipeline that delivers clean and good quality Clickstream Data using Spark and Scala."
-                link="https://github.com/har882/Clickstream-data-pipeline"
+                title="Gym Management System"
+                description="The system helps the administrator to manage the members, trainers of gym. It helps the new member
+                to decide the package they want to choose and provides payment facility."
                 
               />
             </Col>
