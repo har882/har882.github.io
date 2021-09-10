@@ -21,19 +21,20 @@ const Projects = () => {
               <ProjectCard
                 
                 isBlog={false}
-                title="Syllabus Tracker"
-                description="Currently working on a project to help student to keep a track of their syllabus using Java, 
-                Spring boot, MYSQL, Thyme leaf, HTML, CSS, JavaScript."
-                link="https://github.com/har882/syllabus-tracker-"
+                title="ClickStream Data Pipeline"
+                description="This is a group project carried out under the guidance of Target Corporation. We designed and
+        developed a Data pipeline that takes structured raw data as input and delivers clean and good quality Clickstream Data."
+                link="https://github.com/ignite-plus-2021/CLICKSTREAM-DATA-PIPELINE"
               />
             </Col>
             <Col md={4} className="project-card">
               <ProjectCard
-                
-                isBlog={false}
-                title="Gym Management System"
-                description="The system helps the administrator to manage the members, trainers of gym. It helps the new member
-                to decide the package they want to choose and provides payment facility."
+
+                  isBlog={false}
+                  title="Syllabus Tracker"
+                  description="Currently working on a project to help student to keep a track of their syllabus using Java,
+                Spring boot, MYSQL, Thyme leaf, HTML, CSS, JavaScript."
+                  link="https://github.com/har882/syllabus-tracker-"
                 
               />
             </Col>
