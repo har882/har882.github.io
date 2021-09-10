@@ -84,13 +84,13 @@ const NavBar = () => {
             <Link
               className="Navlink"
               activeClass="active"
-              to="experience"
+              to="resume"
               spy={true}
               smooth={true}
               offset={0}
               duration={750}
             >
-              <i className="fas fa-file"></i> Resume
+              <i className="fas fa-file"></i> Experience
             </Link>
             </NavItem>
 
