@@ -84,7 +84,7 @@ const NavBar = () => {
             <Link
               className="Navlink"
               activeClass="active"
-              to="resume"
+              to="experience"
               spy={true}
               smooth={true}
               offset={0}
