@@ -16,7 +16,6 @@
     "react-bootstrap": "^1.5.2",
     "react-dom": "^17.0.2",
     "react-github-calendar": "^2.0.2",
-    "react-loader-spinner": "file:node_modules/react-loader-spinner",
     "react-parallax-tilt": "^1.4.95",
     "react-particles-js": "^3.4.1",
     "react-router-dom": "^5.2.0",
